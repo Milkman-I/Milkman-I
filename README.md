@@ -1,4 +1,4 @@
-# Hamza — "Milkman" 🥛
+# Hamza — "Milkman" 
 
 > *The Quiet Genius of Decentralized Systems*
 
