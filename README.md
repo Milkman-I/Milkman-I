@@ -2,6 +2,10 @@
 
 > *The Quiet Genius of Decentralized Systems*
 
+![Milkman-I's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milkman-I&show_icons=true&theme=transparent)
+
+---
+
 ## 👋 About Me
 
 Hi there—I'm **Hamza**, but online you’ll often see me as **Milkman**.  
@@ -10,7 +14,7 @@ I’m a backend developer, blockchain engineer, and relentless builder passionat
 I believe in delivering reliable, essential technology—like a milkman of the digital world.
 
 - 💻 **Primary Language:** Python
-- 🛠️ **Focus Areas:** Blockchain protocols, smart contract auditing, and Telegram bot development
+- 🛠️ **Focus Areas:** Blockchain protocols, smart contract auditing, Telegram bot development
 - 🌱 **Currently Learning:** Layer-2 scaling solutions and zero-knowledge proofs
 - ⚡ **Fun Fact:** My bots have handled high-volume traffic without a hitch.
 
@@ -19,7 +23,7 @@ I believe in delivering reliable, essential technology—like a milkman of the d
 ## 🧠 Skills
 
 - **Blockchain Development**
-  - Smart contract engineering (Solidity, Vyper)
+  - Smart contracts (Solidity, Vyper)
   - DeFi protocol design & security audits
   - Layer-2 scaling solutions
 - **Python Engineering**
@@ -32,13 +36,6 @@ I believe in delivering reliable, essential technology—like a milkman of the d
 
 ---
 
-## 🎯 Motivation
-
-I’m driven by the belief that decentralization can create a more equitable and efficient world.  
-I find purpose in building tools that empower people to control their data and finances securely.
-
----
-
 ## ✨ Featured Projects
 
 - 🔗 **[Smart Contract Auditor](#)** — Automated auditing tools for Solidity contracts
@@ -47,6 +44,10 @@ I find purpose in building tools that empower people to control their data and f
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milkman-I&layout=compact&theme=transparent)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Milkman-I.Milkman-I)
+
+---
 
 > *“Delivering essential code, one commit at a time.”*
-
